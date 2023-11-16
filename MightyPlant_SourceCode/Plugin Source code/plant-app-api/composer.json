@@ -1,0 +1,24 @@
+{
+    "name": "mighty/plant-app-api",
+    "description": "plant app",
+    "autoload": {
+        "psr-4": {
+            "Includes\\": "./includes"
+        },
+        "files": [
+            "utils/plant_helpers.php",
+            "utils/plant_admin_panel_helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Meet Mighty",
+            "email": "hello@meetmighty.com"
+        }
+    ],
+    "require": {
+        "illuminate/collections": "^8.56",
+        "ext-json": "*",
+        "automattic/woocommerce": "^3.0"
+    }
+}

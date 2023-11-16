@@ -1,0 +1,12 @@
+creativemaybeno.wakelock-core-1.6.0-0 C:\Users\USER\.gradle\caches\transforms-3\009cbc1219538de2b7b5529a60edca28\transformed\core-1.6.0\res
+creativemaybeno.wakelock-jetified-window-1.0.0-beta04-1 C:\Users\USER\.gradle\caches\transforms-3\62e2e1e3be7058af279fe868be9033a2\transformed\jetified-window-1.0.0-beta04\res
+creativemaybeno.wakelock-jetified-annotation-experimental-1.1.0-2 C:\Users\USER\.gradle\caches\transforms-3\b1dc37903b77da49732e2955ac4782bf\transformed\jetified-annotation-experimental-1.1.0\res
+creativemaybeno.wakelock-jetified-window-java-1.0.0-beta04-3 C:\Users\USER\.gradle\caches\transforms-3\c3d2ab22c6f44d180be99210ab8355fa\transformed\jetified-window-java-1.0.0-beta04\res
+creativemaybeno.wakelock-main-4 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock-0.6.2\android\src\main\res
+creativemaybeno.wakelock-release-5 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock-0.6.2\android\src\release\res
+creativemaybeno.wakelock-pngs-6 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\wakelock\generated\res\pngs\release
+creativemaybeno.wakelock-resValues-7 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\wakelock\generated\res\resValues\release
+creativemaybeno.wakelock-rs-8 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\wakelock\generated\res\rs\release
+creativemaybeno.wakelock-mergeReleaseResources-9 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\wakelock\intermediates\incremental\release\mergeReleaseResources\merged.dir
+creativemaybeno.wakelock-mergeReleaseResources-10 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\wakelock\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+creativemaybeno.wakelock-merged_res-11 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\wakelock\intermediates\merged_res\release

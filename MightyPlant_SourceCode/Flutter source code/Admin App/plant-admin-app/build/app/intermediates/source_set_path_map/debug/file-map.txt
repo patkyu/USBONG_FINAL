@@ -1,0 +1,40 @@
+com.mighty.admin.app-webkit-1.5.0-0 C:\Users\USER\.gradle\caches\transforms-3\37afcf612637d9fef0e6c5aee05bc7e8\transformed\webkit-1.5.0\res
+com.mighty.admin.app-jetified-exoplayer-core-2.18.7-1 C:\Users\USER\.gradle\caches\transforms-3\3ec145d438e1f803ef20b5c614a87129\transformed\jetified-exoplayer-core-2.18.7\res
+com.mighty.admin.app-jetified-datastore-preferences-1.0.0-2 C:\Users\USER\.gradle\caches\transforms-3\424fc3d09e375b13c7068472fc174316\transformed\jetified-datastore-preferences-1.0.0\res
+com.mighty.admin.app-jetified-window-1.0.0-beta04-3 C:\Users\USER\.gradle\caches\transforms-3\62e2e1e3be7058af279fe868be9033a2\transformed\jetified-window-1.0.0-beta04\res
+com.mighty.admin.app-jetified-play-services-basement-18.1.0-4 C:\Users\USER\.gradle\caches\transforms-3\6443fbb150c60607ae7bdb7302c1cecf\transformed\jetified-play-services-basement-18.1.0\res
+com.mighty.admin.app-jetified-play-services-base-18.0.1-5 C:\Users\USER\.gradle\caches\transforms-3\9d4f69f58b0b1ebea59b7c5335f0c4b9\transformed\jetified-play-services-base-18.0.1\res
+com.mighty.admin.app-jetified-firebase-common-20.3.3-6 C:\Users\USER\.gradle\caches\transforms-3\acff407ecaea4c03ec94dde5798e8bbc\transformed\jetified-firebase-common-20.3.3\res
+com.mighty.admin.app-core-1.10.1-7 C:\Users\USER\.gradle\caches\transforms-3\b70af337c02844ace86cf80d52f02ab4\transformed\core-1.10.1\res
+com.mighty.admin.app-browser-1.5.0-8 C:\Users\USER\.gradle\caches\transforms-3\be2a1e74e11117f42629e03308ac71aa\transformed\browser-1.5.0\res
+com.mighty.admin.app-jetified-window-java-1.0.0-beta04-9 C:\Users\USER\.gradle\caches\transforms-3\c3d2ab22c6f44d180be99210ab8355fa\transformed\jetified-window-java-1.0.0-beta04\res
+com.mighty.admin.app-lifecycle-runtime-2.3.1-10 C:\Users\USER\.gradle\caches\transforms-3\dba71d4f47dbb35615e69f40fc485c5a\transformed\lifecycle-runtime-2.3.1\res
+com.mighty.admin.app-jetified-annotation-experimental-1.3.0-11 C:\Users\USER\.gradle\caches\transforms-3\e4d74e0fbfe62a86c317f2648216bb1f\transformed\jetified-annotation-experimental-1.3.0\res
+com.mighty.admin.app-jetified-datastore-1.0.0-12 C:\Users\USER\.gradle\caches\transforms-3\e9e5f6de655bc75a1c079462f8fd906f\transformed\jetified-datastore-1.0.0\res
+com.mighty.admin.app-debug-13 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\android\app\src\debug\res
+com.mighty.admin.app-main-14 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\android\app\src\main\res
+com.mighty.admin.app-res-15 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\app\generated\crashlytics\res\debug
+com.mighty.admin.app-google-services-16 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\app\generated\res\google-services\debug
+com.mighty.admin.app-pngs-17 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\app\generated\res\pngs\debug
+com.mighty.admin.app-resValues-18 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\app\generated\res\resValues\debug
+com.mighty.admin.app-rs-19 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\app\generated\res\rs\debug
+com.mighty.admin.app-mergeDebugResources-20 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.mighty.admin.app-mergeDebugResources-21 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.mighty.admin.app-merged_res-22 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\app\intermediates\merged_res\debug
+com.mighty.admin.app-packaged_res-23 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\connectivity_plus\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-24 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\firebase_analytics\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-25 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\firebase_auth\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-26 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\firebase_core\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-27 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\firebase_crashlytics\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-28 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\fluttertoast\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-29 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\nb_utils\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-30 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\package_info\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-31 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\package_info_plus\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-32 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\path_provider_android\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-33 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\shared_preferences_android\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-34 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\sqflite\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-35 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\url_launcher_android\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-36 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\video_player_android\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-37 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\wakelock\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-38 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\wakelock_plus\intermediates\packaged_res\debug
+com.mighty.admin.app-packaged_res-39 C:\Users\USER\Documents\mighty plant\MightyPlant_SourceCode\Flutter source code\Admin App\plant-admin-app\build\webview_flutter_android\intermediates\packaged_res\debug

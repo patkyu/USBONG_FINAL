@@ -1,0 +1,14 @@
+io.flutter.plugins.videoplayer.video_player_android-core-1.7.0-0 C:\Users\USER\.gradle\caches\transforms-3\3c91fc3cb9665301bd14fe58b62d5861\transformed\core-1.7.0\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-exoplayer-core-2.18.7-1 C:\Users\USER\.gradle\caches\transforms-3\6450a877c41f84a9033da8a08d186e1d\transformed\jetified-exoplayer-core-2.18.7\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-1.0.0-beta04-2 C:\Users\USER\.gradle\caches\transforms-3\6dab4dc317a528282ab464c4add6ce85\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-java-1.0.0-beta04-3 C:\Users\USER\.gradle\caches\transforms-3\cba669ccd46a5fcb8adbbc6f9ca670cf\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-annotation-experimental-1.1.0-4 C:\Users\USER\.gradle\caches\transforms-3\cfd7e1903eda72b0e2cc25750bdd57f5\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.videoplayer.video_player_android-lifecycle-runtime-2.3.1-5 C:\Users\USER\.gradle\caches\transforms-3\ea7d081e3cacc175155d2af24e2d0306\transformed\lifecycle-runtime-2.3.1\res
+io.flutter.plugins.videoplayer.video_player_android-pngs-6 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.10\android\build\generated\res\pngs\release
+io.flutter.plugins.videoplayer.video_player_android-resValues-7 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.10\android\build\generated\res\resValues\release
+io.flutter.plugins.videoplayer.video_player_android-rs-8 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.10\android\build\generated\res\rs\release
+io.flutter.plugins.videoplayer.video_player_android-main-9 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.10\android\src\main\res
+io.flutter.plugins.videoplayer.video_player_android-release-10 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.10\android\src\release\res
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-11 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-12 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.videoplayer.video_player_android-merged_res-13 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\video_player_android\intermediates\merged_res\release

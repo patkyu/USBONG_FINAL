@@ -1,0 +1,20 @@
+com.razorpay.razorpay_flutter-jetified-play-services-maps-17.0.0-0 C:\Users\USER\.gradle\caches\transforms-3\1e44da0db6d06dd06677a064b33e7ae2\transformed\jetified-play-services-maps-17.0.0\res
+com.razorpay.razorpay_flutter-jetified-checkout-1.6.36-1 C:\Users\USER\.gradle\caches\transforms-3\2578badd78681586125a21fb04a55cf6\transformed\jetified-checkout-1.6.36\res
+com.razorpay.razorpay_flutter-core-1.6.0-2 C:\Users\USER\.gradle\caches\transforms-3\6984daa9d498023f985f4a60e13374f8\transformed\core-1.6.0\res
+com.razorpay.razorpay_flutter-jetified-window-1.0.0-beta04-3 C:\Users\USER\.gradle\caches\transforms-3\6dab4dc317a528282ab464c4add6ce85\transformed\jetified-window-1.0.0-beta04\res
+com.razorpay.razorpay_flutter-jetified-window-java-1.0.0-beta04-4 C:\Users\USER\.gradle\caches\transforms-3\cba669ccd46a5fcb8adbbc6f9ca670cf\transformed\jetified-window-java-1.0.0-beta04\res
+com.razorpay.razorpay_flutter-jetified-annotation-experimental-1.1.0-5 C:\Users\USER\.gradle\caches\transforms-3\cfd7e1903eda72b0e2cc25750bdd57f5\transformed\jetified-annotation-experimental-1.1.0\res
+com.razorpay.razorpay_flutter-jetified-play-services-base-17.5.0-6 C:\Users\USER\.gradle\caches\transforms-3\e14bcb6c2553602c7247510779fbda8f\transformed\jetified-play-services-base-17.5.0\res
+com.razorpay.razorpay_flutter-jetified-play-services-auth-17.0.0-7 C:\Users\USER\.gradle\caches\transforms-3\e624104f7b3d4ca1de43bc6789ea4804\transformed\jetified-play-services-auth-17.0.0\res
+com.razorpay.razorpay_flutter-jetified-play-services-basement-17.6.0-8 C:\Users\USER\.gradle\caches\transforms-3\f04c1dbd7d8fe5671f8a571b66edd042\transformed\jetified-play-services-basement-17.6.0\res
+com.razorpay.razorpay_flutter-jetified-play-services-wallet-18.1.3-9 C:\Users\USER\.gradle\caches\transforms-3\fc6bb5f63ca261a5ccaf05bcd0211174\transformed\jetified-play-services-wallet-18.1.3\res
+com.razorpay.razorpay_flutter-packaged_res-10 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.2\android\build\intermediates\packaged_res\release
+com.razorpay.razorpay_flutter-packaged_res-11 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-4.2.0\android\build\intermediates\packaged_res\release
+com.razorpay.razorpay_flutter-pngs-12 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.3.5\android\build\generated\res\pngs\release
+com.razorpay.razorpay_flutter-resValues-13 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.3.5\android\build\generated\res\resValues\release
+com.razorpay.razorpay_flutter-rs-14 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.3.5\android\build\generated\res\rs\release
+com.razorpay.razorpay_flutter-main-15 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.3.5\android\src\main\res
+com.razorpay.razorpay_flutter-release-16 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.3.5\android\src\release\res
+com.razorpay.razorpay_flutter-mergeReleaseResources-17 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\razorpay_flutter\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.razorpay.razorpay_flutter-mergeReleaseResources-18 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\razorpay_flutter\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.razorpay.razorpay_flutter-merged_res-19 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\razorpay_flutter\intermediates\merged_res\release

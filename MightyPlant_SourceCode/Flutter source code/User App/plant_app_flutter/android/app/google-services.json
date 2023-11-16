@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597473020029",
+    "project_id": "usbongplantshop",
+    "storage_bucket": "usbongplantshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597473020029:android:a6eadbfc3b17531edc0914",
+        "android_client_info": {
+          "package_name": "com.mighty.plantapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8BiTh2yrg0uTKluHmZ7b3ynJc6UKKmxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

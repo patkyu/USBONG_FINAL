@@ -1,0 +1,34 @@
+co.paystack.flutterpaystack.flutter_paystack-lifecycle-livedata-core-2.5.0-0 C:\Users\USER\.gradle\caches\transforms-3\03d3ffad7ea0b6d8a3a5c601c75e224f\transformed\lifecycle-livedata-core-2.5.0\res
+co.paystack.flutterpaystack.flutter_paystack-jetified-appcompat-resources-1.5.0-1 C:\Users\USER\.gradle\caches\transforms-3\064ae88703ab1e7766b6bedd970e9bd0\transformed\jetified-appcompat-resources-1.5.0\res
+co.paystack.flutterpaystack.flutter_paystack-jetified-emoji2-1.2.0-2 C:\Users\USER\.gradle\caches\transforms-3\1592e3b572fcdeb81d4448f1d6791924\transformed\jetified-emoji2-1.2.0\res
+co.paystack.flutterpaystack.flutter_paystack-lifecycle-runtime-2.5.0-3 C:\Users\USER\.gradle\caches\transforms-3\2f3160c4875ab985f90b70693b75c46e\transformed\lifecycle-runtime-2.5.0\res
+co.paystack.flutterpaystack.flutter_paystack-lifecycle-viewmodel-2.5.0-4 C:\Users\USER\.gradle\caches\transforms-3\339fad21f80b887e4bb2aa363e094d3d\transformed\lifecycle-viewmodel-2.5.0\res
+co.paystack.flutterpaystack.flutter_paystack-drawerlayout-1.1.1-5 C:\Users\USER\.gradle\caches\transforms-3\3920098adb210408648c0569274d4249\transformed\drawerlayout-1.1.1\res
+co.paystack.flutterpaystack.flutter_paystack-fragment-1.3.6-6 C:\Users\USER\.gradle\caches\transforms-3\421d292ae9603476ee4e15590c63d11e\transformed\fragment-1.3.6\res
+co.paystack.flutterpaystack.flutter_paystack-recyclerview-1.1.0-7 C:\Users\USER\.gradle\caches\transforms-3\427733edd71fdcf9e99ec1ca2ef6e5af\transformed\recyclerview-1.1.0\res
+co.paystack.flutterpaystack.flutter_paystack-coordinatorlayout-1.1.0-8 C:\Users\USER\.gradle\caches\transforms-3\4ba25e931f5acbd47a26480fa09362cd\transformed\coordinatorlayout-1.1.0\res
+co.paystack.flutterpaystack.flutter_paystack-jetified-viewpager2-1.0.0-9 C:\Users\USER\.gradle\caches\transforms-3\6c12e758204be6d789d722d0d28a79e0\transformed\jetified-viewpager2-1.0.0\res
+co.paystack.flutterpaystack.flutter_paystack-jetified-window-1.0.0-beta04-10 C:\Users\USER\.gradle\caches\transforms-3\6dab4dc317a528282ab464c4add6ce85\transformed\jetified-window-1.0.0-beta04\res
+co.paystack.flutterpaystack.flutter_paystack-jetified-activity-1.5.0-11 C:\Users\USER\.gradle\caches\transforms-3\855067ee8364876dc09518f447c300f2\transformed\jetified-activity-1.5.0\res
+co.paystack.flutterpaystack.flutter_paystack-cardview-1.0.0-12 C:\Users\USER\.gradle\caches\transforms-3\9001d1e63cc03d8ed0f3b9124debbf14\transformed\cardview-1.0.0\res
+co.paystack.flutterpaystack.flutter_paystack-jetified-lifecycle-process-2.4.1-13 C:\Users\USER\.gradle\caches\transforms-3\9761fe30216067d280b1a00ffff097fc\transformed\jetified-lifecycle-process-2.4.1\res
+co.paystack.flutterpaystack.flutter_paystack-jetified-core-ktx-1.8.0-14 C:\Users\USER\.gradle\caches\transforms-3\a1966922331e111ac1f82048f3fbcd45\transformed\jetified-core-ktx-1.8.0\res
+co.paystack.flutterpaystack.flutter_paystack-appcompat-1.5.0-15 C:\Users\USER\.gradle\caches\transforms-3\b658d26144e67b490a79dba0a218a7f0\transformed\appcompat-1.5.0\res
+co.paystack.flutterpaystack.flutter_paystack-core-1.8.0-16 C:\Users\USER\.gradle\caches\transforms-3\bf494321082169708f6207be790c162f\transformed\core-1.8.0\res
+co.paystack.flutterpaystack.flutter_paystack-material-1.7.0-17 C:\Users\USER\.gradle\caches\transforms-3\c02a756b669280f737bbc2421b487482\transformed\material-1.7.0\res
+co.paystack.flutterpaystack.flutter_paystack-transition-1.2.0-18 C:\Users\USER\.gradle\caches\transforms-3\c2a3efa43508cdf536b9fae3b3c92825\transformed\transition-1.2.0\res
+co.paystack.flutterpaystack.flutter_paystack-jetified-window-java-1.0.0-beta04-19 C:\Users\USER\.gradle\caches\transforms-3\cba669ccd46a5fcb8adbbc6f9ca670cf\transformed\jetified-window-java-1.0.0-beta04\res
+co.paystack.flutterpaystack.flutter_paystack-jetified-annotation-experimental-1.1.0-20 C:\Users\USER\.gradle\caches\transforms-3\cfd7e1903eda72b0e2cc25750bdd57f5\transformed\jetified-annotation-experimental-1.1.0\res
+co.paystack.flutterpaystack.flutter_paystack-constraintlayout-2.0.1-21 C:\Users\USER\.gradle\caches\transforms-3\d5ac79f29fb2be1b837151e2f9dbeb8b\transformed\constraintlayout-2.0.1\res
+co.paystack.flutterpaystack.flutter_paystack-jetified-emoji2-views-helper-1.2.0-22 C:\Users\USER\.gradle\caches\transforms-3\d63fe158933f0d3cca82abd6ed15aac4\transformed\jetified-emoji2-views-helper-1.2.0\res
+co.paystack.flutterpaystack.flutter_paystack-jetified-startup-runtime-1.1.1-23 C:\Users\USER\.gradle\caches\transforms-3\e4b93f73f3cc41d27a4ebfcc10bfc5af\transformed\jetified-startup-runtime-1.1.1\res
+co.paystack.flutterpaystack.flutter_paystack-jetified-lifecycle-viewmodel-savedstate-2.5.0-24 C:\Users\USER\.gradle\caches\transforms-3\e7bbcbe3986f787ba86715ba931c3f41\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.0\res
+co.paystack.flutterpaystack.flutter_paystack-jetified-savedstate-1.2.0-25 C:\Users\USER\.gradle\caches\transforms-3\fa597cdc8ecf03231766d9d0a978e1db\transformed\jetified-savedstate-1.2.0\res
+co.paystack.flutterpaystack.flutter_paystack-pngs-26 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_paystack-1.0.7\android\build\generated\res\pngs\release
+co.paystack.flutterpaystack.flutter_paystack-resValues-27 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_paystack-1.0.7\android\build\generated\res\resValues\release
+co.paystack.flutterpaystack.flutter_paystack-rs-28 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_paystack-1.0.7\android\build\generated\res\rs\release
+co.paystack.flutterpaystack.flutter_paystack-main-29 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_paystack-1.0.7\android\src\main\res
+co.paystack.flutterpaystack.flutter_paystack-release-30 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_paystack-1.0.7\android\src\release\res
+co.paystack.flutterpaystack.flutter_paystack-mergeReleaseResources-31 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\flutter_paystack\intermediates\incremental\release\mergeReleaseResources\merged.dir
+co.paystack.flutterpaystack.flutter_paystack-mergeReleaseResources-32 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\flutter_paystack\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+co.paystack.flutterpaystack.flutter_paystack-merged_res-33 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\flutter_paystack\intermediates\merged_res\release

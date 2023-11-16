@@ -1,0 +1,28 @@
+com.onesignal.flutter.onesignal_flutter-browser-1.3.0-0 C:\Users\USER\.gradle\caches\transforms-3\04f0376fbc28dba50616abfc97497b6e\transformed\browser-1.3.0\res
+com.onesignal.flutter.onesignal_flutter-jetified-startup-runtime-1.0.0-1 C:\Users\USER\.gradle\caches\transforms-3\281be3b889396a3916f4bbf83bf1173b\transformed\jetified-startup-runtime-1.0.0\res
+com.onesignal.flutter.onesignal_flutter-jetified-firebase-messaging-22.0.0-2 C:\Users\USER\.gradle\caches\transforms-3\2a0f843be6c6a6426ebe0a9e393245b8\transformed\jetified-firebase-messaging-22.0.0\res
+com.onesignal.flutter.onesignal_flutter-fragment-1.3.6-3 C:\Users\USER\.gradle\caches\transforms-3\421d292ae9603476ee4e15590c63d11e\transformed\fragment-1.3.6\res
+com.onesignal.flutter.onesignal_flutter-jetified-play-services-base-17.6.0-4 C:\Users\USER\.gradle\caches\transforms-3\5d27f8dc402af3722973490f4bc286b3\transformed\jetified-play-services-base-17.6.0\res
+com.onesignal.flutter.onesignal_flutter-lifecycle-viewmodel-2.3.1-5 C:\Users\USER\.gradle\caches\transforms-3\60d0e7d3d44233a3140adac5ec0cbc5a\transformed\lifecycle-viewmodel-2.3.1\res
+com.onesignal.flutter.onesignal_flutter-core-1.6.0-6 C:\Users\USER\.gradle\caches\transforms-3\6984daa9d498023f985f4a60e13374f8\transformed\core-1.6.0\res
+com.onesignal.flutter.onesignal_flutter-jetified-window-1.0.0-beta04-7 C:\Users\USER\.gradle\caches\transforms-3\6dab4dc317a528282ab464c4add6ce85\transformed\jetified-window-1.0.0-beta04\res
+com.onesignal.flutter.onesignal_flutter-jetified-OneSignal-4.8.5-8 C:\Users\USER\.gradle\caches\transforms-3\8df6472829caa00a0da7ce7edeaa0d82\transformed\jetified-OneSignal-4.8.5\res
+com.onesignal.flutter.onesignal_flutter-cardview-1.0.0-9 C:\Users\USER\.gradle\caches\transforms-3\9001d1e63cc03d8ed0f3b9124debbf14\transformed\cardview-1.0.0\res
+com.onesignal.flutter.onesignal_flutter-media-1.0.0-10 C:\Users\USER\.gradle\caches\transforms-3\9a2b215e79e0fc261ffbc20e76c22084\transformed\media-1.0.0\res
+com.onesignal.flutter.onesignal_flutter-work-runtime-2.7.1-11 C:\Users\USER\.gradle\caches\transforms-3\b85d0aab81a9ef8caf0368bce00cbbc8\transformed\work-runtime-2.7.1\res
+com.onesignal.flutter.onesignal_flutter-jetified-window-java-1.0.0-beta04-12 C:\Users\USER\.gradle\caches\transforms-3\cba669ccd46a5fcb8adbbc6f9ca670cf\transformed\jetified-window-java-1.0.0-beta04\res
+com.onesignal.flutter.onesignal_flutter-jetified-appcompat-resources-1.3.1-13 C:\Users\USER\.gradle\caches\transforms-3\cc4207131d51b7443baabc82fc0f035f\transformed\jetified-appcompat-resources-1.3.1\res
+com.onesignal.flutter.onesignal_flutter-jetified-annotation-experimental-1.1.0-14 C:\Users\USER\.gradle\caches\transforms-3\cfd7e1903eda72b0e2cc25750bdd57f5\transformed\jetified-annotation-experimental-1.1.0\res
+com.onesignal.flutter.onesignal_flutter-jetified-savedstate-1.1.0-15 C:\Users\USER\.gradle\caches\transforms-3\d0ca534438ab8dfc18f538913da4c81b\transformed\jetified-savedstate-1.1.0\res
+com.onesignal.flutter.onesignal_flutter-coordinatorlayout-1.0.0-16 C:\Users\USER\.gradle\caches\transforms-3\dd9ebb024cb8a0f64cce15b5b8a7547e\transformed\coordinatorlayout-1.0.0\res
+com.onesignal.flutter.onesignal_flutter-lifecycle-runtime-2.3.1-17 C:\Users\USER\.gradle\caches\transforms-3\ea7d081e3cacc175155d2af24e2d0306\transformed\lifecycle-runtime-2.3.1\res
+com.onesignal.flutter.onesignal_flutter-jetified-play-services-basement-17.6.0-18 C:\Users\USER\.gradle\caches\transforms-3\f04c1dbd7d8fe5671f8a571b66edd042\transformed\jetified-play-services-basement-17.6.0\res
+com.onesignal.flutter.onesignal_flutter-appcompat-1.3.1-19 C:\Users\USER\.gradle\caches\transforms-3\f662d7853c275c3a4260ab264594ee75\transformed\appcompat-1.3.1\res
+com.onesignal.flutter.onesignal_flutter-pngs-20 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\onesignal_flutter-3.5.1\android\build\generated\res\pngs\release
+com.onesignal.flutter.onesignal_flutter-resValues-21 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\onesignal_flutter-3.5.1\android\build\generated\res\resValues\release
+com.onesignal.flutter.onesignal_flutter-rs-22 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\onesignal_flutter-3.5.1\android\build\generated\res\rs\release
+com.onesignal.flutter.onesignal_flutter-main-23 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\onesignal_flutter-3.5.1\android\src\main\res
+com.onesignal.flutter.onesignal_flutter-release-24 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\onesignal_flutter-3.5.1\android\src\release\res
+com.onesignal.flutter.onesignal_flutter-mergeReleaseResources-25 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\onesignal_flutter\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.onesignal.flutter.onesignal_flutter-mergeReleaseResources-26 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\onesignal_flutter\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.onesignal.flutter.onesignal_flutter-merged_res-27 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\onesignal_flutter\intermediates\merged_res\release

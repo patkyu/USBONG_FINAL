@@ -1,0 +1,14 @@
+com.nb.nb_utils-core-1.6.0-0 C:\Users\USER\.gradle\caches\transforms-3\6984daa9d498023f985f4a60e13374f8\transformed\core-1.6.0\res
+com.nb.nb_utils-jetified-window-1.0.0-beta04-1 C:\Users\USER\.gradle\caches\transforms-3\6dab4dc317a528282ab464c4add6ce85\transformed\jetified-window-1.0.0-beta04\res
+com.nb.nb_utils-jetified-window-java-1.0.0-beta04-2 C:\Users\USER\.gradle\caches\transforms-3\cba669ccd46a5fcb8adbbc6f9ca670cf\transformed\jetified-window-java-1.0.0-beta04\res
+com.nb.nb_utils-jetified-annotation-experimental-1.1.0-3 C:\Users\USER\.gradle\caches\transforms-3\cfd7e1903eda72b0e2cc25750bdd57f5\transformed\jetified-annotation-experimental-1.1.0\res
+com.nb.nb_utils-packaged_res-4 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-3.0.6\android\build\intermediates\packaged_res\release
+com.nb.nb_utils-packaged_res-5 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.2\android\build\intermediates\packaged_res\release
+com.nb.nb_utils-pngs-6 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\nb_utils-5.0.8\android\build\generated\res\pngs\release
+com.nb.nb_utils-resValues-7 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\nb_utils-5.0.8\android\build\generated\res\resValues\release
+com.nb.nb_utils-rs-8 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\nb_utils-5.0.8\android\build\generated\res\rs\release
+com.nb.nb_utils-main-9 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\nb_utils-5.0.8\android\src\main\res
+com.nb.nb_utils-release-10 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\nb_utils-5.0.8\android\src\release\res
+com.nb.nb_utils-mergeReleaseResources-11 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\nb_utils\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.nb.nb_utils-mergeReleaseResources-12 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\nb_utils\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.nb.nb_utils-merged_res-13 C:\Users\USER\Pictures\usbong okay na buyer and seller\MightyPlant_SourceCode\Flutter source code\User App\plant_app_flutter\build\nb_utils\intermediates\merged_res\release
